@@ -30,6 +30,17 @@ body {
     background-color: #666666;
 }
 
-.portfolio_image {
+.portfolio_caption {
+    background: none repeat scroll 0 0 #ffffff;
+    opacity: 0.75;
+    margin: 0 auto;
+    bottom: 20%;
+    text-align: center;
+    position: absolute;
     width: 100%;
+    font-size: 1.5rem;
+}
+
+.nav_links {
+    font-size: 1.5rem;
 }
