@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-image: url("../images/bananas.png");
 }
 
 #my_name {
@@ -28,4 +28,8 @@ body {
 #my_footer {
     color: #4aaaa5;
     background-color: #666666;
+}
+
+.portfolio_image {
+    width: 100%;
 }
