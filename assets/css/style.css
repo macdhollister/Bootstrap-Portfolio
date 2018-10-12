@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+}
+
+#my_name {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+#my_picture {
+    width:200px;
+    height:200px;
+}
+
+#bio_text {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+#main_container {
+    background-color: white;
+}
+
+.navbar {
+    padding: 0;
+}
+
+#my_footer {
+    color: #4aaaa5;
+    background-color: #666666;
+}
